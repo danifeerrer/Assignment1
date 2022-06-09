@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title> ZOO </title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body> 
+    <h1> Welcome to the ZOO! </h1>
+    <p> Click on the animal you'd like to see at zoo</p> 
+    <a href="slow.loris.html"> </a>
+
+</body>
+</html>
